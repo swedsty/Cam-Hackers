@@ -1,10 +1,17 @@
-# Cam-Hackers
-git clone https://github.com/sadamshr3be/cam-alsharabi
+welcom to tool [You-Can]
+ - now you can hack any mikrotik 
+ -
+ - Name List => vigitamhs.txt
+python3 You-Can.py
 
-pip3 install requests
+and enter url
+ - example => http://m.com
 
-pip3 install colorama
+My channel in telegram :
+==> https://ERROR404VIGITAMHS
+ - or
+==>@ERROR404VIGITAMHS
+ - My account in telegram :
+==> @VIGITAMHS
 
-cd cam-alsharabi
-
-python3 cam-lasharabi.py
+ - Happy Hack
